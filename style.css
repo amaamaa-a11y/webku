@@ -1,4 +1,16 @@
-body
-{
- background-color:pink;
+body{
+     background:pink;
+     color:black;
+     width:100%;
+     font-family:times new roman;
+     margin:0 auto;
+}
+
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:white;
+    color:black;
 }
