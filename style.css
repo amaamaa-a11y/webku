@@ -1,8 +1,8 @@
 body{
-     background:pink;
-     color:black;
+     background:#f3f3f3;
+     color:#333;
      width:100%;
-     font-family:times new roman;
+     font-family:sans-serif;
      margin:0 auto;
 }
 
@@ -11,6 +11,7 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:white;
-    color:black;
+    background:#417aa8;
+    color:#fff;
 }
+
