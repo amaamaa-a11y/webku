@@ -48,3 +48,13 @@ body{
 }
 
 
+.content{
+     width:90%;
+     margin:auto;
+     height:420px;
+     padding:o.1px;
+     background:#fff;
+     color:#333;
+}
+
+
